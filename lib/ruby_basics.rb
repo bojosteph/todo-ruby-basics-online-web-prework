@@ -14,7 +14,7 @@ end
 
 def greeting (greeting = "Hi there", name = "Bobby!")
       puts "#{greeting} , #{name}"
-
+        greeting ===> #{greeting}
 
 end
 
