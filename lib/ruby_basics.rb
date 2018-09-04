@@ -3,8 +3,8 @@ def division(num1, num2)
  
 end
 
-def assign_variable(value)
-   puts value = ("Bob")
+def assign_variable(value = )
+   puts value
   
 end
 
