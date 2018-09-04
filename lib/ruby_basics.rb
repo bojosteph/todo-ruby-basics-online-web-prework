@@ -28,6 +28,6 @@ end
 
 def pizza_party(pizza_party = "cheese")
   puts "#{pizza_party}"
-  return 
+  "cheese"
 
 end
