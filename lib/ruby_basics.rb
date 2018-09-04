@@ -4,16 +4,16 @@ def division(num1, num2)
 end
 
 def assign_variable(value = "Bob")
-   puts #{value}
+   puts "#{value}"
   
 end
 
 def argue(phrase = "I'm right and you are wrong!" )
- puts #{phrase}
+ puts "#{phrase}"
 end
 
 def greeting (greeting = "Hi there", name = "Bobby!")
-      puts #{greeting} , #{name}
+      puts "#{greeting} , #{name}"
 
 
 end
