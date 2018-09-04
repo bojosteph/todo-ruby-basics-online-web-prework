@@ -3,12 +3,12 @@ def division(num1, num2)
  
 end
 
-def assign_variable(value = )
+def assign_variable(value = "Bob")
    puts value
   
 end
 
-def argue(phrase)
+def argue(phrase = )
  puts phrase = "I'm right and you are wrong!
 end
 
